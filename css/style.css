@@ -1,0 +1,15 @@
+/* Styles for Wikipedia Page */
+
+a {
+    color: #0645ad;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.left-sidebar {
+    float: left;
+    padding: 10px;
+    font-size: 12px;
+}
